@@ -1,7 +1,7 @@
 # Entrega-parcial
  Arquitetura Inicial (com Monitoramento|Observabilidade) + Custos Iniciais (Somente AWS)
 
-Arquitetura inicial
+       Arquitetura inicial
 ┌─────────────────────────────────┐ 
 │               AWS               │ 
 │  us-east-1                      │ 
